@@ -1,0 +1,13 @@
+body{
+  background-color: blue;
+}
+
+.allPies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.pie{
+  border: 2px solid black;
+}
